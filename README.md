@@ -1,1 +1,3 @@
-# sparta_generating_data
+# Sparta Generating Data
+
+Generating fake data using Faker and YAML!
