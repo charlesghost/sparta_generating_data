@@ -1,0 +1,4 @@
+production: prod1
+Staging:
+  - stage1
+  - stage2
